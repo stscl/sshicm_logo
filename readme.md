@@ -40,5 +40,5 @@ image_read('./sshicm_logo.png') |>
 
 ![](./sshicm_logo.png)
 
-**Special thanks to [my friend](https://github.com/dflemore) for her
-invaluable help in designing the core sshicm figure.**
+**Many thanks to [my friend](https://github.com/dflemore) for her
+invaluable assistance in creating the core sshicm figure.**
