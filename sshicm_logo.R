@@ -33,6 +33,6 @@ sticker(
 # finally make sshicm logo background transparent
 # https://uutool.cn/img-matting/
 
-image_read('./spEDM_logo.png') |> 
+image_read('./sshicm_logo.png') |> 
   image_resize("240x278")|> 
-  image_write('./spEDM_logo.png')
+  image_write('./sshicm_logo.png')
